@@ -1,0 +1,17 @@
+[Unit]
+Description=Login Component for AzuOS
+After=systemd-user-sessions.service graphical.target
+Conflicts=getty@tty1.service
+
+[Service]
+ExecStart=/usr/bin/python3 /usr/lib/azulogin/main.py
+Restart=always
+User=root
+WorkingDirectory=/usr/lib/azulogin
+StandardInput=tty
+StandardOutput=journal
+StandardError=journal
+TTYPath=/dev/tty1
+
+[Install]
+WantedBy=graphical.target
